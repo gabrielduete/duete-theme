@@ -1,0 +1,38 @@
+{
+  "name": "duete-theme",
+  "description": "A Dark Theme personalized by Gabriel Duete",
+  "displayName": "Duete Theme",
+  "version": "0.0.5",
+  "publisher": "GabrielDuete",
+  "keywords": [
+    "theme",
+    "dark",
+    "visual studio code",
+    "vscode",
+    "duete",
+    "gabriel duete"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Duete Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/duete-theme-dark.json"
+      }
+    ]
+  },
+  "license": "MIT",
+  "scripts": {
+    "package": "vsce package --no-yarn",
+    "publuish": "vsce publish --no-yarn"
+  },
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "devDependencies": {
+    "vsce": "^2.15.0"
+  }
+}
