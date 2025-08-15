@@ -2,8 +2,9 @@
   "name": "duete-theme",
   "description": "A Dark Theme personalized by Gabriel Duete",
   "displayName": "Duete Theme",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "publisher": "GabrielDuete",
+  "icon": "assets/images/logo.png",
   "keywords": [
     "theme",
     "dark",

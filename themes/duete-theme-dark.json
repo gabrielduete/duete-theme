@@ -142,6 +142,30 @@
       "settings": {
         "foreground": "#46ce7a"
       }
+    },
+    {
+      "scope": "entity.name.tag",
+      "settings": {
+        "foreground": "#46aece"
+      }
+    },
+    {
+      "scope": "punctuation.definition.tag",
+      "settings": {
+        "foreground": "#46aece"
+      }
+    },
+    {
+      "scope": "entity.other.attribute-name",
+      "settings": {
+        "foreground": "#ffd322"
+      }
+    },
+    {
+      "scope": "string.quoted",
+      "settings": {
+        "foreground": "#46ce7a"
+      }
     }
   ]
 }
