@@ -2,7 +2,7 @@
   "name": "duete-theme",
   "description": "A Dark Theme personalized by Gabriel Duete",
   "displayName": "Duete Theme",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "publisher": "GabrielDuete",
   "icon": "assets/images/logo.png",
   "keywords": [
@@ -26,6 +26,10 @@
     ]
   },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gabrielduete/duete-theme"
+  },
   "scripts": {
     "package": "vsce package --no-yarn",
     "publuish": "vsce publish --no-yarn"

@@ -14,15 +14,13 @@ Made by [Gabriel Duete](https://gabrielduete.com/)
 
 ## Preview
 
-![Duete Theme Preview](assets/images/preview.png)
+![Duete Theme Preview](./assets/images/preview.png)
 
 ---
 
 ## Features
 
 - **Soft dark greenish background** for reduced eye strain
-- **Balanced color palette** for JSX, TypeScript, HTML, CSS, and terminal
-- **Special highlighting** for strings and imports
 - **High readability** for extended coding sessions
 
 ---
