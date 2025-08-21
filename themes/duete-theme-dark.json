@@ -58,7 +58,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#3c5768"
+        "foreground": "#029e6a"
       }
     },
     {
@@ -67,7 +67,7 @@
         "keyword.operator.type"
       ],
       "settings": {
-        "foreground": "#3c5768"
+        "foreground": "#30ac7c"
       }
     },
     {
@@ -95,7 +95,7 @@
         "storage.modifier"
       ],
       "settings": {
-        "foreground": "#2f678a"
+        "foreground": "#22939b"
       }
     },
     {
