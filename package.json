@@ -1,8 +1,8 @@
 {
   "name": "duete-theme",
-  "description": "A Dark Theme personalized by Gabriel Duete",
+  "description": "A Dark Theme with green and bluish tones.",
   "displayName": "Duete Theme",
-  "version": "1.1.3",
+  "version": "1.1.5",
   "publisher": "GabrielDuete",
   "icon": "assets/images/logo.png",
   "keywords": [

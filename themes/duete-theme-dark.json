@@ -8,7 +8,7 @@
     "editorLineNumber.foreground": "#3c5768",
     "editorCursor.foreground": "#46ce7a",
     "editor.selectionBackground": "#46ce7a40",
-    "editor.inactiveSelectionBackground": "#223843",
+    "editor.inactiveSelectionBackground": "#223843f8",
     "editorLineNumber.activeForeground": "#46ce7a",
     "editorIndentGuide.background": "#193038",
     "editorIndentGuide.activeBackground": "#46ce7a40",
@@ -113,7 +113,7 @@
         "entity.name.function"
       ],
       "settings": {
-        "foreground": "#26818a"
+        "foreground": "#05d0e2"
       }
     },
     {
